@@ -50,7 +50,8 @@
     "*://trac-hacks.org/*",
     "*://*.trac.wordpress.org/*",
     "*://bugs.jquery.com/*",
-    "*://*.wunderlist.com/*"
+    "*://*.wunderlist.com/*",
+    "*://trac.dev.wikical.com/*"
   ],
   "icons": {
     "16": "images/icon-16.png",
@@ -88,7 +89,8 @@
         "*://trac-hacks.org/*",
         "*://*.trac.wordpress.org/*",
         "*://bugs.jquery.com/*",
-        "*://*.wunderlist.com/*"
+        "*://*.wunderlist.com/*",
+        "*://trac.dev.wikical.com/*"
       ],
       "css": ["styles/style.css"],
       "js": ["scripts/common.js"]
@@ -202,7 +204,8 @@
         "*://trac.edgewall.org/*",
         "*://trac-hacks.org/*",
         "*://*.trac.wordpress.org/*",
-        "*://bugs.jquery.com/*"
+        "*://bugs.jquery.com/*",
+        "*://trac.dev.wikical.com/*"
       ],
       "js": ["scripts/content/trac.js"]
     },
